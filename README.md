@@ -15,6 +15,7 @@ A collection of research papers on various topics ranging from quantum physics t
 9. [Neuromorphic Cosmos](neuromorphic_cosmos.md) - Exploring neural-like patterns in cosmic structures
 10. [Quantum Singleton](quantum_singleton.md) - Analysis of quantum phenomena in isolated systems
 11. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
+12. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
 
 ## Supporting Files
 
