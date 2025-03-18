@@ -18,6 +18,7 @@ A collection of research papers on various topics ranging from quantum physics t
 12. [Quantum Singleton](quantum_singleton.md) - Analysis of quantum phenomena in isolated systems
 13. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
 14. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
+15. [Psychopathy and Family Dynamics](psychopathy_family_dynamics.md) - Research on negative feedback loops in families affected by psychopathic traits and how communication-based interventions can disrupt destructive patterns
 
 ## Supporting Files
 
