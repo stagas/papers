@@ -15,10 +15,11 @@ A collection of research papers on various topics ranging from quantum physics t
 9. [Mobile Addiction](mobile_addiction.md) - Comprehensive study on smartphone addiction and its effects
 10. [Music and Well-being](music_well_being.md) - Investigation into the therapeutic effects of music on mental health
 11. [Neuromorphic Cosmos](neuromorphic_cosmos.md) - Exploring neural-like patterns in cosmic structures
-12. [Quantum Singleton](quantum_singleton.md) - Analysis of quantum phenomena in isolated systems
-13. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
-14. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
-15. [Psychopathy and Family Dynamics](psychopathy_family_dynamics.md) - Research on negative feedback loops in families affected by psychopathic traits and how communication-based interventions can disrupt destructive patterns
+12. [Polyamory and Family Resilience](polyamory_family_resilience.md) - Multidimensional analysis of structural advantages in multi-partner family units
+13. [Quantum Singleton](quantum_singleton.md) - Analysis of quantum phenomena in isolated systems
+14. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
+15. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
+16. [Psychopathy and Family Dynamics](psychopathy_family_dynamics.md) - Research on negative feedback loops in families affected by psychopathic traits and how communication-based interventions can disrupt destructive patterns
 
 ## Supporting Files
 
