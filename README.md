@@ -24,6 +24,7 @@ A collection of research papers on various topics ranging from quantum physics t
 18. [Quantum Singleton](quantum_singleton.md) - Analysis of quantum phenomena in isolated systems
 19. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
 20. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
+21. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
 
 ## Supporting Files
 
