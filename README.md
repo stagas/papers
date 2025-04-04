@@ -9,32 +9,33 @@ A collection of research papers on various topics ranging from quantum physics t
 3. [Alcohol Legality Paradox](alcohol_legality_paradox.md) - Analysis of why alcohol maintains legal status despite higher harm profile compared to prohibited substances
 4. [Alcohol-LSD Perceptual Distortion](alcohol_lsd_perceptual_distortion.md) - Comparative study of perceptual alterations induced by alcohol versus LSD
 5. [Abstraction Experience Nexus](abstraction_experience_nexus.md) - Phenomenological analysis of how all cognitive constructs function as abstractions referencing experiential phenomena
-6. [Bassism - A New Religion](bassism_new_religion.md) - Study of electronic music culture as a quasi-religious phenomenon centered around Berghain and techno music
-7. [Bird Song Notation System](bird_song_notation_system.md) - Development of a standardized notation system for avian vocalizations and AI-based translation
-8. [Bipolar Healing](bipolar_healing.md) - Research on therapeutic approaches for bipolar disorder
-9. [Bipolar Disorder as a Product of Inflammation](bipolar_inflammation_diet.md) - Examination of inflammatory mechanisms in bipolar disorder and dietary approaches to treatment
-10. [Body Condition Linked to Intelligence, Memory and Emotional Capacity](body_condition_intelligence_memory_emotion.md) - Investigation of bidirectional relationships between physical health, cognitive function, and emotional processing
-11. [Cat Happiness](cat_happiness.md) - Study on feline well-being and happiness indicators
-12. [Communication Barriers and Student Agency](communication_barriers_education.md) - Analysis of educational communication support systems and their impact on student development
-13. [Founding a New Country](founding_new_country.md) - Systematic analysis of nation-state formation in the modern era
-14. [Free Will and Computational Limits](free_will_computational_limits.md) - Analysis of how Gödel's incompleteness theorems and the halting problem limit our ability to prove or disprove determinism
-15. [Lightsaber Technology](lightsaber_technology.md) - Theoretical physics and engineering principles of lightsaber development
-16. [Lobotomy versus Modern Mood Stabilizers](lobotomy_vs_mood_stabilizers.md) - Ethical and practical analysis comparing historical psychosurgery with contemporary pharmacological interventions
-17. [Magical Thinking](magical_thinking.md) - Analysis of magical thinking patterns and their psychological implications
-18. [Matter Translocation](matter_translocation.md) - Theoretical exploration of quantum teleportation principles applied to macroscopic objects
-19. [Metabolism: Your Days Are Counted](metabolism-your_days_are_counted.md) - Research on metabolic processes and their impact on longevity
-20. [Mobile Addiction](mobile_addiction.md) - Comprehensive study on smartphone addiction and its effects
-21. [Music and Well-being](music_well_being.md) - Investigation into the therapeutic effects of music on mental health
-22. [Neuromorphic Cosmos](neuromorphic_cosmos.md) - Exploring neural-like patterns in cosmic structures
-23. [Polyamory and Family Resilience](polyamory_family_resilience.md) - Multidimensional analysis of structural advantages in multi-partner family units
-24. [Psychopathy and Family Dynamics](psychopathy_family_dynamics.md) - Research on negative feedback loops in families affected by psychopathic traits and how communication-based interventions can disrupt destructive patterns
-25. [Quantum Singleton](quantum_singleton.md) - Analysis of quantum phenomena in isolated systems
-26. [Skills in Schizophrenia](skills_schizophrenia.md) - Research on cognitive adaptations and unique abilities developed in individuals with schizophrenia
-27. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
-28. [Speech Rhythm](speech_rhythm.md) - Analysis of speech patterns and rhythmic structures in human communication
-29. [The Fear of Becoming Insane Is Preventing You From Healing](fear_insanity_healing.md) - Analysis of how emotional expression and radical honesty facilitate psychological healing by exposing and integrating subconscious material
-30. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
-31. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
+6. [Ancient Greek Pathos](ancient_greek_pathos.md) - Comprehensive study of pathos in Ancient Greek language compared to other languages
+7. [Bassism - A New Religion](bassism_new_religion.md) - Study of electronic music culture as a quasi-religious phenomenon centered around Berghain and techno music
+8. [Bird Song Notation System](bird_song_notation_system.md) - Development of a standardized notation system for avian vocalizations and AI-based translation
+9. [Bipolar Healing](bipolar_healing.md) - Research on therapeutic approaches for bipolar disorder
+10. [Bipolar Disorder as a Product of Inflammation](bipolar_inflammation_diet.md) - Examination of inflammatory mechanisms in bipolar disorder and dietary approaches to treatment
+11. [Body Condition Linked to Intelligence, Memory and Emotional Capacity](body_condition_intelligence_memory_emotion.md) - Investigation of bidirectional relationships between physical health, cognitive function, and emotional processing
+12. [Cat Happiness](cat_happiness.md) - Study on feline well-being and happiness indicators
+13. [Communication Barriers and Student Agency](communication_barriers_education.md) - Analysis of educational communication support systems and their impact on student development
+14. [Founding a New Country](founding_new_country.md) - Systematic analysis of nation-state formation in the modern era
+15. [Free Will and Computational Limits](free_will_computational_limits.md) - Analysis of how Gödel's incompleteness theorems and the halting problem limit our ability to prove or disprove determinism
+16. [Lightsaber Technology](lightsaber_technology.md) - Theoretical physics and engineering principles of lightsaber development
+17. [Lobotomy versus Modern Mood Stabilizers](lobotomy_vs_mood_stabilizers.md) - Ethical and practical analysis comparing historical psychosurgery with contemporary pharmacological interventions
+18. [Magical Thinking](magical_thinking.md) - Analysis of magical thinking patterns and their psychological implications
+19. [Matter Translocation](matter_translocation.md) - Theoretical exploration of quantum teleportation principles applied to macroscopic objects
+20. [Metabolism: Your Days Are Counted](metabolism-your_days_are_counted.md) - Research on metabolic processes and their impact on longevity
+21. [Mobile Addiction](mobile_addiction.md) - Comprehensive study on smartphone addiction and its effects
+22. [Music and Well-being](music_well_being.md) - Investigation into the therapeutic effects of music on mental health
+23. [Neuromorphic Cosmos](neuromorphic_cosmos.md) - Exploring neural-like patterns in cosmic structures
+24. [Polyamory and Family Resilience](polyamory_family_resilience.md) - Multidimensional analysis of structural advantages in multi-partner family units
+25. [Psychopathy and Family Dynamics](psychopathy_family_dynamics.md) - Research on negative feedback loops in families affected by psychopathic traits and how communication-based interventions can disrupt destructive patterns
+26. [Quantum Singleton](quantum_singleton.md) - Analysis of quantum phenomena in isolated systems
+27. [Skills in Schizophrenia](skills_schizophrenia.md) - Research on cognitive adaptations and unique abilities developed in individuals with schizophrenia
+28. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
+29. [Speech Rhythm](speech_rhythm.md) - Analysis of speech patterns and rhythmic structures in human communication
+30. [The Fear of Becoming Insane Is Preventing You From Healing](fear_insanity_healing.md) - Analysis of how emotional expression and radical honesty facilitate psychological healing by exposing and integrating subconscious material
+31. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
+32. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
 
 ## Supporting Files
 
