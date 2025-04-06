@@ -30,12 +30,13 @@ A collection of research papers on various topics ranging from quantum physics t
 24. [Polyamory and Family Resilience](polyamory_family_resilience.md) - Multidimensional analysis of structural advantages in multi-partner family units
 25. [Psychopathy and Family Dynamics](psychopathy_family_dynamics.md) - Research on negative feedback loops in families affected by psychopathic traits and how communication-based interventions can disrupt destructive patterns
 26. [Quantum Singleton](quantum_singleton.md) - Analysis of quantum phenomena in isolated systems
-27. [Skills in Schizophrenia](skills_schizophrenia.md) - Research on cognitive adaptations and unique abilities developed in individuals with schizophrenia
-28. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
-29. [Speech Rhythm](speech_rhythm.md) - Analysis of speech patterns and rhythmic structures in human communication
-30. [The Fear of Becoming Insane Is Preventing You From Healing](fear_insanity_healing.md) - Analysis of how emotional expression and radical honesty facilitate psychological healing by exposing and integrating subconscious material
-31. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
-32. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
+27. [Reinterpreting Delusions as Comedy](reinterpreting_delusions_comedy.md) - Novel therapeutic framework for treating persistent delusional thinking through comedic reframing and self-satire
+28. [Skills in Schizophrenia](skills_schizophrenia.md) - Research on cognitive adaptations and unique abilities developed in individuals with schizophrenia
+29. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
+30. [Speech Rhythm](speech_rhythm.md) - Analysis of speech patterns and rhythmic structures in human communication
+31. [The Fear of Becoming Insane Is Preventing You From Healing](fear_insanity_healing.md) - Analysis of how emotional expression and radical honesty facilitate psychological healing by exposing and integrating subconscious material
+32. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
+33. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
 
 ## Supporting Files
 
