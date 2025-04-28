@@ -1,6 +1,6 @@
 # Papers Collection
 
-A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 45 papers covering diverse fields of study.
+A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 46 papers covering diverse fields of study.
 
 ## Table of Contents
 
@@ -49,6 +49,7 @@ A collection of research papers made by me using Claude 3.5/3.7-thinking with va
 43. [Speech Rhythm](speech_rhythm.md) - Analysis of speech patterns and rhythmic structures in human communication
 44. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
 45. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
+46. [Positive Self-Improving Feedback Loop](positive_self_improving_feedback_loop.md) - Examination of dynamic systems that perpetuate growth through cycles of success, reward, reflection, and refinement across psychological and educational domains
 
 ## Supporting Files
 
