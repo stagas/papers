@@ -1,6 +1,6 @@
 # Papers Collection
 
-A collection of research papers on various topics ranging from quantum physics to cognitive science and well-being.
+A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 45 papers covering diverse fields of study.
 
 ## Table of Contents
 
