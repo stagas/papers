@@ -52,10 +52,6 @@ A collection of research papers made by me using Claude 3.5/3.7-thinking with va
 46. [Positive Self-Improving Feedback Loop](positive_self_improving_feedback_loop.md) - Examination of dynamic systems that perpetuate growth through cycles of success, reward, reflection, and refinement across psychological and educational domains
 47. [Two Minds Discussion Become One](two_minds_discussion_become_one.md) - Investigation of neurocognitive and phenomenological processes through which distinct minds converge into shared cognitive landscapes during sustained dialogue
 
-## Supporting Files
-
-- [Cat Happiness References](cat_happiness-references.bib) - Bibliography for the Cat Happiness paper
-
 ## Contributing
 
 To contribute to this collection, please ensure your papers are in Markdown format (`.md`) and include appropriate references when applicable.
