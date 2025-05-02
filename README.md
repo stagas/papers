@@ -1,6 +1,6 @@
 # Papers Collection
 
-A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 47 papers covering diverse fields of study.
+A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 48 papers covering diverse fields of study.
 
 ## Table of Contents
 
@@ -51,6 +51,7 @@ A collection of research papers made by me using Claude 3.5/3.7-thinking with va
 45. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
 46. [Positive Self-Improving Feedback Loop](positive_self_improving_feedback_loop.md) - Examination of dynamic systems that perpetuate growth through cycles of success, reward, reflection, and refinement across psychological and educational domains
 47. [Two Minds Discussion Become One](two_minds_discussion_become_one.md) - Investigation of neurocognitive and phenomenological processes through which distinct minds converge into shared cognitive landscapes during sustained dialogue
+48. [Creativity Mechanisms Same As Psychotic](creativity_mechanisms_psychotic.md) - Analysis of shared neural and cognitive mechanisms between creativity and psychosis, examining how antipsychotic medications may suppress creative cognition
 
 ## Contributing
 
