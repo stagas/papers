@@ -73,10 +73,10 @@ Clinical trials investigating psilocybin for treatment-resistant depression have
     │         │          │          │          │          │
     ├─────────┤          │          │          │          │  SSRIs
     │                    │          │          │          │
-    ├─────────────────────────────┤          │          │  Ketamine
-    │                                         │          │
-    ├─────────────────────────────────────────────────┤  Psilocybin
-    │                                                  │
+    ├─────────────────────────────┤            │          │  Ketamine
+    │                                          │          │
+    ├─────────────────────────────────────────────────┤      Psilocybin
+    │                                                     │
     │         │          │          │          │          │
     0%        20%        40%        60%        80%       100%
 ```
