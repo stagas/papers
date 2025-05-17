@@ -67,19 +67,19 @@ Salivary sampling revealed distinct neurochemical profiles between relationship 
 
 ```
 MEAN OXYTOCIN LEVELS BY RELATIONSHIP TYPE AND DURATION
-                  High |                                      
-                       |                   *****              
-                       |          *****    *   *              
-    Oxytocin Levels    |         *     *  *     *            
-                       |        *       **       *            
-                       | ******         M         ******      
-                       |*               O               *     
-                       |                N                *    
-                       |                O                 *   
+                  High |
+                       |                   *****
+                       |          *****    *   *
+    Oxytocin Levels    |         *     *  *     *
+                       |        *       **       *
+                       | ******         M         ******
+                       |*               O               *
+                       |                N                *
+                       |                O                 *
                   Low  |________________P_________________*___
                          1    2    3    4    5    6    7    8+
-                                 Relationship Years            
-                         
+                                 Relationship Years
+
                        M = Monogamous relationships
                        P = Polyamorous relationships
 ```
@@ -96,12 +96,12 @@ NEEDS FULFILLMENT COMPARISON (PERCENTAGE ADEQUATELY MET)
                   0%       25%       50%       75%      100%
                    |        |         |         |         |
 Sexual Variety     |--M-----|---------|---------P---------|
-Emotional Support  |--------|----M----|------P--|---------| 
-Intellectual Stim. |--------|---M-----|-----P---|---------| 
-Novel Experiences  |----M---|---------|----P----|---------| 
+Emotional Support  |--------|----M----|------P--|---------|
+Intellectual Stim. |--------|---M-----|-----P---|---------|
+Novel Experiences  |----M---|---------|----P----|---------|
 Stability/Security |--------|---------|--MP-----|---------|
-Life Satisfaction  |--------|----M----|------P--|---------| 
-Relationship Trust |--------|---------|--M-P----|---------| 
+Life Satisfaction  |--------|----M----|------P--|---------|
+Relationship Trust |--------|---------|--M-P----|---------|
                    |        |         |         |         |
                   0%       25%       50%       75%      100%
                       M = Monogamous   P = Polyamorous
@@ -119,20 +119,20 @@ No significant differences were observed in stability/security needs fulfillment
 
 ```
 RELATIONSHIP SATISFACTION TRAJECTORY OVER TIME
-  High |                                      
-       |  **                                  
-       | *  ***                               
-       |*     ****                            
-       |        ****                          
- Sat.  |           ****                       
-       |              **** M                  
-       |                  ****                
-       |      P*******************            
-       |     *                                
+  High |
+       |  **
+       | *  ***
+       |*     ****
+       |        ****
+ Sat.  |           ****
+       |              **** M
+       |                  ****
+       |      P*******************
+       |     *
   Low  |____*________________________________
-         0    5    10   15   20   25   30   
+         0    5    10   15   20   25   30
                   Relationship Years
-          
+
          M = Monogamous relationships
          P = Polyamorous relationships
 ```
@@ -170,16 +170,16 @@ The probability of finding a single individual who optimally satisfies all relat
 
 ```
 PROBABILITY OF FINDING IDEAL MATCH WITH INCREASING CRITERIA
-       1 |P                                 
-         |                                  
-         | \                                
-         |  \                               
-Prob.    |   \                             
-         |    \                             
-         |     \                            
-         |      \                           
-         |       `-._                       
-         |           `---.____              
+       1 |P
+         |
+         | \
+         |  \
+Prob.    |   \
+         |    \
+         |     \
+         |      \
+         |       `-._
+         |           `---.____
        0 |_____________________`-----------_
           1    3    5    7    9   11   13  15
               Number of Important Criteria
@@ -204,17 +204,17 @@ Given increased life expectancy, relationships now span multiple developmental p
 
 ```
 RELATIONSHIP NEEDS EVOLUTION ACROSS LIFESPAN
-         |                                      
-Importance|              _____                  
-         |             /     \  Identity        
-         |      ___---       ---___             
-         |     /                   \  Security  
-         |    /                     \           
-         |   /                       \          
-         |  /           Passion       \         
-         | /\                         /\        
-         |/  ---___             ___---  \       
-         |        ---_______---          \      
+         |
+Importance|              _____
+         |             /     \  Identity
+         |      ___---       ---___
+         |     /                   \  Security
+         |    /                     \
+         |   /                       \
+         |  /           Passion       \
+         | /\                         /\
+         |/  ---___             ___---  \
+         |        ---_______---          \
          |________________________________\___
            20   30    40    50    60    70   80
                           Age
