@@ -1,6 +1,6 @@
 # Papers Collection
 
-A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 55 papers covering diverse fields of study.
+A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 56 papers covering diverse fields of study.
 
 ## Table of Contents
 
@@ -59,6 +59,7 @@ A collection of research papers made by me using Claude 3.5/3.7-thinking with va
 53. [Shamanism and Hypomanic Episodes](shamanism_hypomanic_guidance.md) - Investigation of the benefits of managing hypomanic episodes through guided experiences rather than pharmaceutical suppression, drawing parallels with shamanic traditions across cultures
 54. [Monogamy Longevity Happiness Paradox](monogamy_longevity_happiness_paradox.md) - Longitudinal analysis of polyamorous versus monogamous relationship structures and their differential impacts on sustained happiness and psychological well-being
 55. [Post-Modernism Is True - How Using LLMs You Can Prove Anything](postmodernism_llm_proof.md) - Examination of how AI-generated scientific literature can produce convincing arguments for any proposition, revealing fundamental epistemological weaknesses in scientific methodology and validating post-modernist critiques
+56. [Two Hemispheres = Two People?](two_hemispheres_two_people.md) - Investigation into internal multiplicity and contradictory cognition, examining whether a single human consciousness can functionally operate as multiple distinct cognitive entities capable of holding contradictory opinions simultaneously
 
 ## Contributing
 
