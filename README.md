@@ -1,6 +1,6 @@
 # Papers Collection
 
-A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 62 papers covering diverse fields of study.
+A collection of research papers made by me using Claude 3.5/3.7-thinking with various topics ranging from quantum physics to cognitive science and well-being. Currently features 63 papers covering diverse fields of study.
 
 ## Table of Contents
 
@@ -66,6 +66,7 @@ A collection of research papers made by me using Claude 3.5/3.7-thinking with va
 60. [Two Hemispheres = Two People?](two_hemispheres_two_people.md) - Investigation into internal multiplicity and contradictory cognition, examining whether a single human consciousness can functionally operate as multiple distinct cognitive entities capable of holding contradictory opinions simultaneously
 61. [What is Art?](what_is_art.md) - Multidisciplinary analysis of aesthetic experience and creative expression, examining art through philosophical, cognitive, sociocultural, evolutionary, and contemporary digital perspectives
 62. [The Diagnostic and Statistical Manual: A Critical Analysis of Psychiatric Classification as Social Control](dsm_critical_analysis.md) - Comprehensive examination of the DSM as an instrument of social control rather than scientific classification, analyzing historical development, methodological failures, cultural biases, and societal impacts while proposing alternatives
+63. [Self-Regulating Masses: The Neurological Subjugation of Human Civilization](self_regulating_masses.md) - Analysis of how entertainment and social media systems hijack higher-order brain functions to reduce populations to reptilian-level functioning, creating self-maintaining systems of mass control through voluntary neurological subjugation
 
 ## Contributing
 
