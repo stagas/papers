@@ -1,5 +1,10 @@
 # Arguments Against the DSM: Why It's a Tool of Social Control, Not Science
 
+## Sources
+Based on research from:
+- [The Diagnostic and Statistical Manual: A Critical Analysis of Psychiatric Classification as Social Control](dsm_critical_analysis.md)
+- [Antipsychotics as Modern Lobotomy: A Critical Analysis of Neurochemical Intervention and Cognitive Suppression](antipsychotics_modern_lobotomy.md)
+
 ## Historical Origins in Oppression
 - **Rooted in eugenics**: Originally designed to identify "undesirable" populations for sterilization and social control
 - **Asylum warehousing**: Created to manage "social undesirables" - the poor, immigrants, women who violated gender norms
