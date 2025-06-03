@@ -1,6 +1,6 @@
 # Papers Collection
 
-A collection of research papers made by me using Claude 3.5/3.7-thinking and Claude 4 with various topics ranging from quantum physics to cognitive science and well-being. Currently features 66 papers covering diverse fields of study.
+A collection of research papers made by me using Claude 3.5/3.7-thinking and Claude 4 with various topics ranging from quantum physics to cognitive science and well-being. Currently features 67 papers covering diverse fields of study.
 
 ## Table of Contents
 
@@ -64,12 +64,13 @@ A collection of research papers made by me using Claude 3.5/3.7-thinking and Cla
 58. [Skills in Schizophrenia](skills_schizophrenia.md) - Research on cognitive adaptations and unique abilities developed in individuals with schizophrenia
 59. [Spatial Cognition in Domestic Cats](spatial_cognition-domestic_cats.md) - Research on how cats perceive and navigate space
 60. [Speech Rhythm](speech_rhythm.md) - Analysis of speech patterns and rhythmic structures in human communication
-61. [The Diagnostic and Statistical Manual: A Critical Analysis of Psychiatric Classification as Social Control](dsm_critical_analysis.md) - Comprehensive examination of the DSM as an instrument of social control rather than scientific classification, analyzing historical development, methodological failures, cultural biases, and societal impacts while proposing alternatives
-62. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
-63. [Two Hemispheres = Two People?](two_hemispheres_two_people.md) - Investigation into internal multiplicity and contradictory cognition, examining whether a single human consciousness can functionally operate as multiple distinct cognitive entities capable of holding contradictory opinions simultaneously
-64. [Two Minds Discussion Become One](two_minds_discussion_become_one.md) - Investigation of neurocognitive and phenomenological processes through which distinct minds converge into shared cognitive landscapes during sustained dialogue
-65. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
-66. [What is Art?](what_is_art.md) - Multidisciplinary analysis of aesthetic experience and creative expression, examining art through philosophical, cognitive, sociocultural, evolutionary, and contemporary digital perspectives
+61. [Stress-Induced Psychopathy Development](stress_induced_psychopathy_development.md) - Understanding the neurobiological and psychological pathways from trauma to antisocial behavior, examining how chronic stress and environmental factors contribute to psychopathic trait development
+62. [The Diagnostic and Statistical Manual: A Critical Analysis of Psychiatric Classification as Social Control](dsm_critical_analysis.md) - Comprehensive examination of the DSM as an instrument of social control rather than scientific classification, analyzing historical development, methodological failures, cultural biases, and societal impacts while proposing alternatives
+63. [Tinnitus Remission during Hypomanic States](tinnitus_remission_in_hypomania.md) - Investigation into neural plasticity mechanisms enabling tinnitus reduction during hypomanic episodes
+64. [Two Hemispheres = Two People?](two_hemispheres_two_people.md) - Investigation into internal multiplicity and contradictory cognition, examining whether a single human consciousness can functionally operate as multiple distinct cognitive entities capable of holding contradictory opinions simultaneously
+65. [Two Minds Discussion Become One](two_minds_discussion_become_one.md) - Investigation of neurocognitive and phenomenological processes through which distinct minds converge into shared cognitive landscapes during sustained dialogue
+66. [Useful Psychosis](useful_psychosis.md) - An alternative view of psychotic experiences and how they can be leveraged for personal growth and evolution
+67. [What is Art?](what_is_art.md) - Multidisciplinary analysis of aesthetic experience and creative expression, examining art through philosophical, cognitive, sociocultural, evolutionary, and contemporary digital perspectives
 
 ## Contributing
 
